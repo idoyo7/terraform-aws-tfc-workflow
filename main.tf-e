@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "montkim-org"
+    organization = "<MY-ORG>"
     hostname     = "app.terraform.io" # default
 
     workspaces {
